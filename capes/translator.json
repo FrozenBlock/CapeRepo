@@ -1,0 +1,8 @@
+{
+  "id": "frozenlib:translator",
+  "name": "Translator",
+  "texture": "https://raw.githubusercontent.com/FrozenBlock/CapeRepo/refs/heads/master/capes/textures/translator.png",
+  "allowed_uuids": [
+    "097b76e8-ac32-410f-b81c-38dd4086b97c"
+  ]
+}
