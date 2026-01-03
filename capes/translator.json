@@ -3,6 +3,10 @@
   "name": "Translator",
   "texture": "https://raw.githubusercontent.com/FrozenBlock/CapeRepo/refs/heads/master/capes/textures/translator.png",
   "allowed_uuids": [
-    "097b76e8-ac32-410f-b81c-38dd4086b97c"
+    "097b76e8-ac32-410f-b81c-38dd4086b97c",
+    "0e07c4ef-2c85-4aa9-b711-6bf21c7e2065",
+    "3e3f3ce4-e1b2-4c6c-adb5-bea3a3626e4d",
+    "c91b9637-52d8-4500-ab11-14883a03825b",
+    "c9cfe5eb-c1b4-41c9-b9c3-1d46bf00a98e"
   ]
 }
